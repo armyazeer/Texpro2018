@@ -1,1 +1,1 @@
-# Texpro2018
+Texpro Visual Basic project
